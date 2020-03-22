@@ -27,5 +27,8 @@
 				<a href="#">Forgot Password?
 			</p>
 	</div>
+	<div style="text-align: center; color: black">
+		<p>Version: 1.0</p>
+	</div>
 </body>
 </html>
